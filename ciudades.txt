@@ -1,2 +1,7 @@
 nueva york
 tokio
+paris
+londres
+Madrid
+Roma
+Berlín
